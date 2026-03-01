@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MAESTRO",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-03-01T07:58:46.856513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Maestro",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/01_The_Maestro_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Westside (feat. Maestro & Sky)",
+      "artist": "David Banner",
+      "has_synced": true,
+      "path": "select/02_Westside_(feat._Maestro_&_Sky)_David_Banner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Maestro",
+      "artist": "Caro Emerald",
+      "has_synced": true,
+      "path": "select/03_The_Maestro_Caro_Emerald.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ma che musica maestro",
+      "artist": "Raffaella Carrà",
+      "has_synced": true,
+      "path": "select/04_Ma_che_musica_maestro_Raffaella_Carrà.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Maestro - Live From Europe/Winter 1995",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/05_The_Maestro_-_Live_From_Europe_Winter_1995_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Maestro (Live In Europe, Winter 95)",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/06_The_Maestro_(Live_In_Europe,_Winter_95)_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "El Gran Maestro",
+      "artist": "Cardenales de Nuevo León",
+      "has_synced": true,
+      "path": "select/07_El_Gran_Maestro_Cardenales_de_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "El Gran Maestro (Album Version)",
+      "artist": "Cardenales de Nuevo León",
+      "has_synced": true,
+      "path": "select/08_El_Gran_Maestro_(Album_Version)_Cardenales_de_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "\"For Frodo\" - feat. Ben del Maestro",
+      "artist": "Howard Shore",
+      "has_synced": true,
+      "path": "select/09_For_Frodo__-_feat._Ben_del_Maestro_Howard_Shore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For Frodo (feat. Ben del Maestro)",
+      "artist": "Howard Shore",
+      "has_synced": true,
+      "path": "select/10_For_Frodo_(feat._Ben_del_Maestro)_Howard_Shore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Théoden Rides Forth (feat. Ben Del Maestro)",
+      "artist": "Howard Shore",
+      "has_synced": false,
+      "path": "select/11_Théoden_Rides_Forth_(feat._Ben_Del_Maestro)_Howard_Shore.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "El Maestro",
+      "artist": "Los Tigres Del Norte",
+      "has_synced": true,
+      "path": "select/12_El_Maestro_Los_Tigres_Del_Norte.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Maestro (Live)",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/13_The_Maestro_(Live)_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yo Soy Tu Maestro",
+      "artist": "EL Bandido",
+      "has_synced": true,
+      "path": "select/14_Yo_Soy_Tu_Maestro_EL_Bandido.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAESTRO",
+      "artist": "세븐틴",
+      "has_synced": false,
+      "path": "select/pl_01_MAESTRO_세븐틴.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "MAESTRO",
+      "artist": "세븐틴",
+      "has_synced": false,
+      "path": "select/pl_02_MAESTRO_세븐틴.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MAESTRO -Japanese ver.-",
+      "artist": "세븐틴",
+      "has_synced": false,
+      "path": "select/pl_03_MAESTRO_-Japanese_ver.-_세븐틴.txt"
+    }
+  ]
+}
